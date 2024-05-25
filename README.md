@@ -42,7 +42,7 @@ The additional requirements are only necessary if you want to reproduce our resu
 
 The `ConStat` class is the primary interface for running contamination tests. Here's a simple example using randomly generated data with NumPy:
 
-```bash
+```python
 from constat import ConStat
 import numpy as np
 
